@@ -1,5 +1,5 @@
 build:
-  version: "gitfile-default-v1.1"
+  version: "gitfile-default-v1.2"
 
 accounts:
   message: "Welcome to EazyBank accounts related docker APIs "
