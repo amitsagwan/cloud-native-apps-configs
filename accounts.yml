@@ -2,7 +2,7 @@ build:
   version: "gitfile-default-v1.1"
 
 accounts:
-  message: "Welcome to EazyBank accounts related docker APIs"
+  message: "Welcome to EazyBank accounts related docker APIs1"
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
